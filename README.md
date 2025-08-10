@@ -59,3 +59,4 @@ automated-report/ ├── data/ │   └── dataset.csv ├── models/ 
 
 ## OUTPUT
 [sales_report.pdf](https://github.com/user-attachments/files/21704366/sales_report.pdf)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3985cce3-cfbc-4ee4-8764-3afc7a68c673" />
