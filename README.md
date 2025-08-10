@@ -58,6 +58,4 @@ automated-report/ ├── data/ │   └── dataset.csv ├── models/ 
  - Schedule with cron or integrate into CI/CD
 
 ## OUTPUT
-
-
-
+[sales_report.pdf](https://github.com/user-attachments/files/21704366/sales_report.pdf)
